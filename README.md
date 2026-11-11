@@ -4,6 +4,14 @@ Skills for Claude, shared with the cybersecurity marketing community.
 
 Created by Cassidy Trowbridge, Head of Insights and Growth at CyberSynapse.io.
 
+## Skills in this repo
+
+| Skill | What it does |
+| --- | --- |
+| [ai-design-trope-audit](skills/ai-design-trope-audit/SKILL.md) | Decide which AI-generated design habits your brand accepts, record them as brand rules, and audit a website against them with evidence. |
+
+See [skills/README.md](skills/README.md) for how to install a skill, and [CONTRIBUTING.md](CONTRIBUTING.md) to add one. Security reports: see [SECURITY.md](SECURITY.md).
+
 ## ai-design-trope-audit
 
 Helps a marketer or brand owner decide which common AI-generated design habits ("tropes") are acceptable for their brand, record those decisions as brand rules, and check a real website against them with screenshot evidence.
